@@ -1,0 +1,32 @@
+{
+  "name": "string-to-template",
+  "version": "1.0.0",
+  "description": "string to ES6 template",
+  "main": "index.js",
+  "scripts": {
+    "test": "standard && mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/matteofigus/string-to-template.git"
+  },
+  "keywords": [
+    "string",
+    "template",
+    "es6"
+  ],
+  "author": "Matteo Figus",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/matteofigus/string-to-template/issues"
+  },
+  "homepage": "https://github.com/matteofigus/string-to-template#readme",
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^3.2.0",
+    "standard": "^8.6.0"
+  },
+  "standard": {
+    "globals": ["describe", "it"]
+  }
+}
