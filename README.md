@@ -1,5 +1,7 @@
 string-to-template [![Build Status](https://secure.travis-ci.org/matteofigus/string-to-template.png?branch=master)](http://travis-ci.org/matteofigus/string-to-template)
 ==================
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/matteofigus/string-to-template.svg)](https://greenkeeper.io/)
 ES6 template literal starting from a string. Common scenario when working from json config files.
 
 ### Install
