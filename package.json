@@ -22,7 +22,7 @@
   },
   "homepage": "https://github.com/matteofigus/string-to-template#readme",
   "devDependencies": {
-    "chai": "^3.5.0",
+    "chai": "^4.0.2",
     "mocha": "^3.2.0",
     "standard": "^10.0.2"
   },
